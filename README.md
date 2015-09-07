@@ -1,6 +1,6 @@
 ## TangScan job interview
 
-### Python 高级研发工程师
+### Python 研发工程师
 
 #### 简单介绍:
 使用 python 编写一个网站爬虫项目, 至少支持以下配置:
@@ -28,8 +28,8 @@ loglevel: 日志级别
 
 #### 项目要求:
 0. 请遵守 pep8 规范
-1. 请使用 gevent, tornado, asyncio, twisted 等网络框架
+1. 请使用 gevent, tornado, asyncio, twisted 等任一网络框架
 2. 请使用 git-flow 工作流
 3. 请使用 sphinx , 并在 rtfd.org 上生成文档
-4. 请使用 doctest, unittest 等单元测试框架
+4. 请使用 doctest, unittest 等任一单元测试框架
 5. 建议使用 cookiecutter 生成项目(非强制要求)
